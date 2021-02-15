@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Images dir / zip
+Images/dandelion/
+Images/other/
+Images/dandelion_v_other/training/dandelion/
+Images/dandelion_v_other/testing/dandelion/
+Images/dandelion_v_other/training/other/
+Images/dandelion_v_other/testing/other/
+Images.zip
+
+#saved training models...can get large
+saved_models/
