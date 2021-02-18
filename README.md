@@ -4,7 +4,6 @@ This project is a very simple binary image classification model for me to do som
 
 Initial thoughts and findings:
     Need lots and lots more images. While the training results in decent accuracy, the validation loss is substantial. My initial 1,200+ images (50% dandelion/50% not) seems woefully small. May need upwards of 10,000+ of each....maybe. Initially the focus was not on dandelions that have already flowered, but more on just the leaves being the more prominent feature. Next spring/summer, I'll need to diversify the dandelions.
-    
     I had initially started with 'Square' images to keep it uniform. However, with help from the 'kids,' in the neighborhood I ended up allowing all sizes and shapes. Seems that to get well over 10,000 of each, that's a restriction I'll have to work through.
     
 Model training is done in two files:
