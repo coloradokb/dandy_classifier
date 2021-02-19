@@ -12,7 +12,7 @@ Model training is done in two files:
 3. dandy_predictor.ipynb - notebook to try agains unseen, different images
 4. model_builder_resnet.ipynb - notebook that I'm just starting to play with using transfer learning as I really may never get enough images :<|
 
-**Images: filesize of Images.zip is too large for github. Go to this url (TBD) on Kaggle.com for the dataset to download**
+**Images: filesize of Images.zip is too large for github. Go to this url (https://www.kaggle.com/coloradokb/dandelionimages) on Kaggle.com for the dataset to download**
 
 Directory structure and contents for the future when I can spend more time on it!
 |--metrics:: simple text/csv files that give metrics information on last training. (;) is default delimmiter
